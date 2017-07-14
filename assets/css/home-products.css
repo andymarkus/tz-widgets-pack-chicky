@@ -1,0 +1,105 @@
+.tabs.tz-home-products-tabs .horizontal{
+    list-style: none;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.tabs.tz-home-products-tabs .horizontal li{
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.tabs.tz-home-products-tabs .horizontal li a{
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #8d8b8e;
+    color: #c6c5c7;
+    font-weight: inherit;
+    font-size: 1.333em;
+    line-height: 1em;
+    display: block;
+    transition: all 0.5s ease;
+    width: 298px;
+}
+
+.tabs.tz-home-products-tabs .horizontal li.active a,
+.tabs.tz-home-products-tabs .horizontal li:hover a
+{
+    color: #fff;
+}
+
+.tz-home-products .owl-nav .owl-prev,
+.tz-home-products .owl-nav .owl-next
+{
+    background-color: transparent !important;
+    margin-top: -120px;
+}
+
+.tz-home-products .owl-nav .owl-prev:before,
+.tz-home-products .owl-nav .owl-next:before{
+    border:none !important;
+}
+
+.tz-home-products ul.products{
+    margin: 0 !important;
+}
+
+.tz-home-products ul.products li.product{
+    min-width: 290px;
+    max-width: 290px;
+    width: 100%;
+    display: inline-block;
+}
+
+.tz-home-products .owl-stage-outer{
+    margin-left: 2px;
+}
+
+.tz-home-products .owl-stage{
+    margin: 0 auto;
+}
+
+.tz-home-products ul.products li.product.first{
+    clear: none;
+}
+
+
+@media screen and (min-width: 80.000em) {
+    .tz-home-products{
+        margin: 20px auto;
+    }
+}
+
+.tz-home-products .owl-item{
+    opacity: 0;
+    transition: opacity 0.7s ease;
+}
+
+.tz-home-products .owl-item.active{
+    opacity: 1;
+}
+
+@media screen and (max-width: 60.000em) {
+
+    .tz-home-products div.owl-item > li {
+        margin: 0 auto !important;
+        float: none !important;
+        display: block !important;
+    }
+
+}
+
+@media screen and (max-width: 51.2em) and (min-width: 44.9375em){
+    .tz-home-products ul.products li.product,
+    .woocommerce[class*=columns-] ul.products.owl-loaded li.product
+    {
+        width: auto !important;
+        margin: 0 0 !important;
+        max-width: 100%;
+    }
+}

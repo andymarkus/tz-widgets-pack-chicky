@@ -1,0 +1,16 @@
+#tz-menu-image-widget-container,
+#tz-banner-widget-container
+{
+    padding: 18px 0px 17px 0px;
+}
+
+#tz-menu-image-widget-container .hidden,
+#tz-banner-widget-container .hidden
+{
+    visibility: hidden;
+}
+
+.tz-image-preview-container img{
+    max-width: 100%;
+    height: auto;
+}

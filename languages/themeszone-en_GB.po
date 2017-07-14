@@ -1,0 +1,861 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themes Zone Widgets Pack\n"
+"POT-Creation-Date: 2017-04-21 21:21+0200\n"
+"PO-Revision-Date: 2017-04-21 21:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcodes/tz-post-like.php:183
+msgid "Likes: "
+msgstr ""
+
+#: shortcodes/tz-post-view.php:49 shortcodes/tz-post-view.php:50
+msgid "Views: "
+msgstr ""
+
+#: shortcodes/tz-social-share.php:16
+msgid "Shares: "
+msgstr ""
+
+#: shortcodes/tz-social-share.php:65
+msgid "A great product: "
+msgstr ""
+
+#: shortcodes/tz-social-share.php:67
+msgid "A great post: "
+msgstr ""
+
+#: shortcodes/tz-social-share.php:93
+msgid "Check this!"
+msgstr ""
+
+#: shortcodes/tz-social-share.php:94
+msgid "See more at: "
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:21
+msgid "Home Page Banner"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:23 shortcodes/tz-vc-breadcrumbs.php:27
+#: shortcodes/tz-vc-carousel.php:29 shortcodes/tz-vc-members.php:25
+#: shortcodes/tz-vc-portfolio.php:24 shortcodes/tz-vc-posts-tiles.php:52
+#: shortcodes/tz-vc-sortable-gallery.php:31
+#: shortcodes/tz-vc-tabbed-sidebar.php:41 shortcodes/tz-vc-testimonials.php:28
+#: shortcodes/tz-vc-wc-home-products.php:29
+#: shortcodes/tz-vc-wc-specials.php:38
+msgid "ThemesZone Shortcodes"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:24
+msgid "Shows Home Page banner"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:29
+msgid "Banner Image"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:31
+msgid "Add Banner Image"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:35 shortcodes/tz-vc-members.php:38
+#: shortcodes/tz-vc-testimonials.php:103
+msgid "Image size"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:44 shortcodes/tz-vc-members.php:47
+#: shortcodes/tz-vc-testimonials.php:112
+msgid ""
+"Enter image size. You can change these images' dimensions in wordpress media "
+"settings."
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:48
+msgid "Banner Text"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:51
+msgid "Banner HTML Content"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:55 shortcodes/tz-vc-members.php:96
+msgid "URL"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:57
+msgid "Enter URL for banner"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:62 shortcodes/tz-vc-members.php:117
+msgid "Predefined Styles"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:78
+msgid "Button Title"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:80
+msgid "Text for the banner button"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:85 shortcodes/tz-vc-members.php:128
+#: shortcodes/tz-vc-posts-tiles.php:85 shortcodes/tz-vc-testimonials.php:157
+#: shortcodes/tz-vc-wc-specials.php:113
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:87 shortcodes/tz-vc-members.php:130
+#: shortcodes/tz-vc-posts-tiles.php:87 shortcodes/tz-vc-testimonials.php:159
+#: shortcodes/tz-vc-wc-specials.php:115
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:91 shortcodes/tz-vc-members.php:134
+#: shortcodes/tz-vc-posts-tiles.php:91 shortcodes/tz-vc-testimonials.php:163
+#: shortcodes/tz-vc-wc-specials.php:119
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/tz-vc-banner.php:93 shortcodes/tz-vc-members.php:136
+#: shortcodes/tz-vc-posts-tiles.php:93 shortcodes/tz-vc-testimonials.php:165
+#: shortcodes/tz-vc-wc-specials.php:121
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/tz-vc-breadcrumbs.php:25
+msgid "ThemesZone breadcrumbs"
+msgstr ""
+
+#: shortcodes/tz-vc-breadcrumbs.php:28
+msgid "Seo optimized breadcrumbs"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:23
+msgid "ThemesZone Carousel"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:24
+msgid "Content Carousel, use image or text"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:33
+msgid "Loop Items"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:35
+msgid "Check if you want your items to loop through."
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:39
+msgid "Carousel Width"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:41
+msgid "Width of the slider container"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:47
+msgid "Item Width"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:49
+msgid "Width of the item in the carousel"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:55
+msgid "Margin"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:57
+msgid "Margin between elements"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:61
+msgid "Speed"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:63
+msgid "Slider speed"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:69
+msgid "Number of Items on Wide Screens"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:85
+msgid "Number of Items on Desktop"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:101
+msgid "Number of Items on Tablet"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:117
+msgid "Number of Items on Wide Mobile"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:133
+msgid "Number of Items on Mobile"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:149
+msgid "Content Items"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:155
+msgid "Text Content"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:157
+msgid "Items Content"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:161
+msgid "Image"
+msgstr ""
+
+#: shortcodes/tz-vc-carousel.php:163
+msgid "Select image from media library for content."
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:23
+msgid "Member Contacts"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:26
+msgid "Output Member Foto and social links"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:32
+msgid "Member Image"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:34
+msgid "Add Member Image"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:51 shortcodes/tz-vc-members.php:53
+msgid "Team Member Name"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:57 shortcodes/tz-vc-members.php:59
+msgid "Team Member Occupation"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:63
+msgid "Team Member Short Biography"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:65
+msgid "Short biography here"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:70
+msgid "Buttons"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:74
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:78
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:82
+msgid "Google Plus"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:89 widgets/header-cart-widget.php:25
+msgid "Title"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:91
+msgid "Enter Title"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:98
+msgid "Enter URL for button"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:103
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:111
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/tz-vc-members.php:176
+msgid "Click here"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:18
+msgid "ThemesZone Portfolio"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:19
+msgid "Visual Portfolio with filters"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:28 shortcodes/tz-vc-sortable-gallery.php:35
+msgid "Images"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:30 shortcodes/tz-vc-sortable-gallery.php:37
+msgid "Select images from media library."
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:36 shortcodes/tz-vc-sortable-gallery.php:64
+msgid "Show Gallery Filters?"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:43 shortcodes/tz-vc-sortable-gallery.php:71
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:44 shortcodes/tz-vc-sortable-gallery.php:72
+msgid "No"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:46 shortcodes/tz-vc-sortable-gallery.php:74
+msgid "Choose whether to show filters or not."
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:51 shortcodes/tz-vc-sortable-gallery.php:79
+msgid "Gallery Sort Order"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:54 shortcodes/tz-vc-sortable-gallery.php:82
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:55 shortcodes/tz-vc-sortable-gallery.php:83
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:57 shortcodes/tz-vc-sortable-gallery.php:85
+msgid "Select Gallery Sort Order"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:62 shortcodes/tz-vc-sortable-gallery.php:90
+msgid "Number Images per Row"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:65 shortcodes/tz-vc-sortable-gallery.php:93
+msgid "Two"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:66 shortcodes/tz-vc-sortable-gallery.php:94
+msgid "Three"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:67 shortcodes/tz-vc-sortable-gallery.php:95
+msgid "Four"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:68 shortcodes/tz-vc-sortable-gallery.php:96
+msgid "Five"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:70 shortcodes/tz-vc-sortable-gallery.php:98
+msgid "Select Number of Images per Row"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:75 shortcodes/tz-vc-sortable-gallery.php:103
+msgid "Gallery Layout Type"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:82 shortcodes/tz-vc-sortable-gallery.php:110
+msgid "Masonry"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:83 shortcodes/tz-vc-sortable-gallery.php:111
+msgid "Fit Rows"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:84 shortcodes/tz-vc-sortable-gallery.php:112
+msgid "Vertical"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:86 shortcodes/tz-vc-sortable-gallery.php:114
+msgid "Select Gallery Layout Type"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:220
+msgid "Sort Portfolio"
+msgstr ""
+
+#: shortcodes/tz-vc-portfolio.php:222
+#: shortcodes/tz-vc-sortable-gallery.php:251
+msgid "All"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:50
+msgid "Tiled Blog Posts"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:53
+msgid "Tiled Blog Posts for Home Page"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:58 shortcodes/tz-vc-tabbed-sidebar.php:47
+#: shortcodes/tz-vc-testimonials.php:34 shortcodes/tz-vc-wc-specials.php:45
+msgid "Title text"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:60 shortcodes/tz-vc-tabbed-sidebar.php:49
+#: shortcodes/tz-vc-testimonials.php:36 shortcodes/tz-vc-wc-specials.php:47
+msgid "Title goes here"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:64
+msgid "Selected Posts"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:70
+msgid "Select Posts to show"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:77 shortcodes/tz-vc-posts-tiles.php:79
+msgid "Text Color"
+msgstr ""
+
+#: shortcodes/tz-vc-posts-tiles.php:175
+msgid "by"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:25
+msgid "ThemesZone Gallery"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:26
+msgid "Sortable Masonry Media Gallery with filters"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:42
+msgid "Display Mode"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:46
+msgid "All at once"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:47
+msgid "By row in slider"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:53
+msgid "Item Layout"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:57
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:58
+msgid "Classic"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:249
+msgid "Sort Gallery"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:324
+msgid "Details"
+msgstr ""
+
+#: shortcodes/tz-vc-sortable-gallery.php:383
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: shortcodes/tz-vc-tabbed-sidebar.php:38
+msgid "ThemesZone Tabbed Sidebar"
+msgstr ""
+
+#: shortcodes/tz-vc-tabbed-sidebar.php:40
+msgid "Tabbed Widgetised Sidebar"
+msgstr ""
+
+#: shortcodes/tz-vc-tabbed-sidebar.php:54 shortcodes/tz-vc-testimonials.php:40
+msgid "Testimonials Style"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:25
+msgid "ThemesZone Testimonials"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:27
+msgid "Output carousel with Testimonials"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:62 shortcodes/tz-vc-wc-specials.php:63
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:64 shortcodes/tz-vc-wc-specials.php:65
+msgid "Whether to running your carousel automatically or not"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:68 shortcodes/tz-vc-wc-specials.php:69
+msgid "Show Arrows"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:70 shortcodes/tz-vc-wc-specials.php:71
+msgid "Show/hide arrow buttons"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:74 shortcodes/tz-vc-wc-specials.php:75
+msgid "Show Page Navigation"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:76 shortcodes/tz-vc-wc-specials.php:77
+msgid "Show/hide navigation buttons under your carousel"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:80
+msgid "Testimonials Items"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:84 shortcodes/tz-vc-testimonials.php:89
+#: shortcodes/tz-vc-testimonials.php:116
+msgid "Name"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:85 shortcodes/tz-vc-testimonials.php:90
+#: shortcodes/tz-vc-testimonials.php:123
+msgid "Occupation"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:86 shortcodes/tz-vc-testimonials.php:91
+msgid "Text"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:97
+msgid " Image"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:99
+msgid "Add Image"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:118
+msgid "Enter Name"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:125
+msgid "Enter Occupation"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:130
+msgid "Content Text"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:132
+msgid "Set content of element"
+msgstr ""
+
+#: shortcodes/tz-vc-testimonials.php:137
+msgid "Add star rating to testimonial"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-home-products.php:27
+msgid "New and Featured Products Tabs"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-home-products.php:30
+msgid "New and Featured Products Tabs for Home Page"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-home-products.php:41
+msgid "New Products"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-home-products.php:41
+msgid "Best Sellers"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:36
+msgid "Sale Carousel"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:39
+msgid "Output carousel with sale products"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:51
+msgid "Transition Type"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:81
+msgid "Carousel Items"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:92
+msgid "Enter Sale Product ID"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:99
+msgid "Target Date"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:101
+msgid "Set target date (YYYY-MM-DD) when special offer ends"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:105
+msgid "Pre-Countdown text"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:107
+msgid "This text appears before countdown timer"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:163
+msgid "Sale!"
+msgstr ""
+
+#: shortcodes/tz-vc-wc-specials.php:204
+msgid "Add sale products first"
+msgstr ""
+
+#: tz-widgets-pack.php:58
+msgid "Maintenance/Coming Soon Page"
+msgstr ""
+
+#: tz-widgets-pack.php:65
+msgid "Maintenance / Comming Soon"
+msgstr ""
+
+#: tz-widgets-pack.php:74
+msgid "Preceding text"
+msgstr ""
+
+#: tz-widgets-pack.php:84
+msgid "Main text"
+msgstr ""
+
+#: tz-widgets-pack.php:94
+msgid "Launch Time"
+msgstr ""
+
+#: tz-widgets-pack.php:105
+msgid "Maintenance Mode / Coming Soon Page settings"
+msgstr ""
+
+#: tz-widgets-pack.php:109
+msgid "On/Off"
+msgstr ""
+
+#: tz-widgets-pack.php:139
+msgid "Set target date (YYYY-MM-DD)"
+msgstr ""
+
+#: views/maintenance.php:14
+msgid "Coming Soon"
+msgstr ""
+
+#: widgets/header-cart-widget.php:18
+msgid "Display the user's Cart in the header."
+msgstr ""
+
+#: widgets/header-cart-widget.php:20
+msgid "Themes Zone WooCommerce Cart"
+msgstr ""
+
+#: widgets/header-cart-widget.php:24 widgets/header-cart-widget.php:56
+msgid "Cart"
+msgstr ""
+
+#: widgets/header-cart-widget.php:30 widgets/header-cart-widget.php:112
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: widgets/header-cart-widget.php:108 widgets/payment-methods.php:113
+#: widgets/recent-comments.php:181 widgets/recent-posts.php:163
+msgid "Title:"
+msgstr ""
+
+#: widgets/header-search-widget.php:18
+msgid "Themes Zone Header Search"
+msgstr ""
+
+#: widgets/header-search-widget.php:19
+msgid "Header Search Widget"
+msgstr ""
+
+#: widgets/header-search-widget.php:25
+msgid "Search Field"
+msgstr ""
+
+#: widgets/header-search-widget.php:26
+msgid "Text here..."
+msgstr ""
+
+#: widgets/header-search-widget.php:27
+msgid "Find"
+msgstr ""
+
+#: widgets/header-search-widget.php:33
+msgid "Title: "
+msgstr ""
+
+#: widgets/header-search-widget.php:37
+msgid "Input Text: "
+msgstr ""
+
+#: widgets/header-search-widget.php:41
+msgid "Button Title Text: "
+msgstr ""
+
+#: widgets/header-search-widget.php:46
+msgid "Product Search Only?"
+msgstr ""
+
+#: widgets/header-search-widget.php:73
+msgid "Click to show search-field"
+msgstr ""
+
+#: widgets/header-search-widget.php:77
+msgid "Click to search"
+msgstr ""
+
+#: widgets/menu-image-widget.php:32
+msgid "Themes Zone Menu Image Widget"
+msgstr ""
+
+#: widgets/menu-image-widget.php:33
+msgid "Widget to display images on the side of Mega Menu"
+msgstr ""
+
+#: widgets/menu-image-widget.php:54 widgets/sidebar-banner.php:51
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/menu-image-widget.php:58 widgets/sidebar-banner.php:54
+msgid "Remove this image"
+msgstr ""
+
+#: widgets/payment-methods.php:62
+msgid "Themes Zone Payment Methods Widget"
+msgstr ""
+
+#: widgets/payment-methods.php:63
+msgid "Widget to display payment methods"
+msgstr ""
+
+#: widgets/payment-methods.php:117
+msgid "Select Methods To Display"
+msgstr ""
+
+#: widgets/recent-comments.php:19
+msgid "Recent Comments with Post Images"
+msgstr ""
+
+#: widgets/recent-comments.php:23
+msgid "Themes Zone Recent Comments"
+msgstr ""
+
+#: widgets/recent-comments.php:107
+#, php-format
+msgctxt "themeszone"
+msgid "by %1$s"
+msgstr ""
+
+#: widgets/recent-comments.php:111
+#, php-format
+msgctxt "themeszone"
+msgid "in %1$s"
+msgstr ""
+
+#: widgets/recent-comments.php:184
+msgid "Number of comments to show:"
+msgstr ""
+
+#: widgets/recent-comments.php:187
+msgid "Comments Excerpt length:"
+msgstr ""
+
+#: widgets/recent-comments.php:191
+msgid "Comments Style"
+msgstr ""
+
+#: widgets/recent-comments.php:194 widgets/recent-posts.php:182
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: widgets/recent-posts.php:20
+msgid "Recent Posts with Post Images"
+msgstr ""
+
+#: widgets/recent-posts.php:24
+msgid "Themes Zone Recent Posts"
+msgstr ""
+
+#: widgets/recent-posts.php:166
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/recent-posts.php:170
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/recent-posts.php:173
+msgid "Display the number of comments?"
+msgstr ""
+
+#: widgets/recent-posts.php:176
+msgid "Crop image?"
+msgstr ""
+
+#: widgets/recent-posts.php:179
+msgid "Style"
+msgstr ""
+
+#: widgets/sidebar-banner.php:31
+msgid "Themes Zone Banner Widget"
+msgstr ""
+
+#: widgets/sidebar-banner.php:32
+msgid "Widget to display banner in the sidebar"
+msgstr ""
+
+#: widgets/sidebar-banner.php:60
+msgid "Content:"
+msgstr ""
+
+#: widgets/wishlist-icon-link.php:12
+msgid "Wishlist Header Widget"
+msgstr ""
+
+#: widgets/wishlist-icon-link.php:13
+msgid "Themes Zone Wishlist Icon Link"
+msgstr ""
+
+#: widgets/wishlist-icon-link.php:55
+msgid "Wishlist"
+msgstr ""
+
+#: widgets/wishlist-icon-link.php:58
+msgid "Link Text:"
+msgstr ""

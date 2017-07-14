@@ -1,0 +1,199 @@
+.tz-sales{
+    position: relative;
+}
+
+.vc_row.vc_row-flex.animated-specials{
+    overflow:visible;
+    margin-top: 90px;
+    padding: 0;
+    line-height: 0;
+}
+
+.tz-sales .wrapper{
+    position: relative;
+}
+
+.tz-sales .wrapper .sales-product{
+    min-height: 450px;
+    position: relative;
+}
+
+.tz-sales .wrapper .img-wrapper{
+    position: absolute;
+    max-width: 68%;
+    left:50%;
+    transform: translateX(-100%);
+    bottom:0;
+    display: table;
+}
+
+.tz-sales .wrapper .counter-wrapper{
+    position: absolute;
+    margin-top: -20px;
+    max-width: 50%;
+    left: 40%;
+    top:50%;
+    transform: translateY(-50%);
+    text-align: center;
+    z-index: 2;
+}
+
+.tz-sales .wrapper .counter-wrapper h4{
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-container{
+    background-color: #fff;
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+    box-shadow: -2px 2px 40px -7px rgba(0,0,0,0.19);
+}
+
+.tz-sales .wrapper .counter-wrapper .price-wrapper{
+    font-size: 22px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 45px;
+}
+.tz-sales .wrapper .counter-wrapper .price-wrapper del,
+.tz-sales .wrapper .counter-wrapper .price-wrapper del .woocommerce-Price-amount{
+    color: #0c0c0e;
+}
+
+.tz-sales .wrapper .counter-wrapper .price-wrapper ins .woocommerce-Price-amount{
+    color: #fff;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row{
+    display: block;
+    width: 100%;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section{
+    width: 24%;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #666666;
+    display: inline-block;
+    margin-top: 30px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section .countdown-amount,
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section .countdown-period{
+    width: 100%;
+    display: block;
+    line-height: 20px;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section + span.countdown-section:before{
+    content: '';
+    display: block;
+    width: 1px;
+    height: 24px;
+    background-color: #e57975;
+    position: absolute;
+    top:calc(50% - 12px);
+    left: 0;
+
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section .countdown-amount{
+    font-weight: 500;
+}
+
+.tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section .countdown-period{
+    vertical-align: bottom;
+    font-size: 15px;
+}
+
+.tz-sales .wrapper .counter-wrapper  a.shop-now{
+    font-size: 22px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 40px;
+    position: relative;
+}
+
+.tz-sales .wrapper .counter-wrapper  a.shop-now:after{
+    content: "";
+    display: block !important;
+    position: absolute;
+    bottom:0;
+    left: 50%;
+    width: 0%;
+    transform: translateX(-50%);
+    height: 1px;
+    opacity: 0;
+    border-width: 0 !important;
+    background-color: rgba(255,255,255,0.5);
+    transition: width 0.4s ease, opacity 0.4s ease;
+}
+
+.tz-sales .wrapper .counter-wrapper  a.shop-now:hover:after{
+    width: 100%;
+    opacity: 1;
+}
+
+.tz-sales .wrapper span.pre-countdown-text{
+    font-size: 12em;
+    color: rgba(255, 255, 255, 0.1);
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    max-width: 100%;
+    width: 80%;
+    left: 20%;
+    text-align: center;
+    z-index: 0;
+}
+
+@media screen and (max-width: 48.9375em){
+    .vc_row.vc_row-flex.animated-specials{
+        margin-top: 0;
+    }
+
+    .tz-sales .wrapper .img-wrapper{
+        display: none;
+    }
+
+    .tz-sales .wrapper span.pre-countdown-text{
+        display: none;
+    }
+
+    .tz-sales .wrapper .counter-wrapper{
+        position: relative;
+        max-width: 100%;
+        left: 0;
+        top:0;
+        transform: translateY(0%);
+    }
+
+    .tz-sales .wrapper .counter-wrapper h4{
+        font-size: 2em;
+        line-height: 1em;
+    }
+
+    .tz-sales .wrapper .sales-product{
+        min-height: 0 !important;
+    }
+
+    .tz-sales .wrapper .counter-wrapper .countdown-container{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .tz-sales .wrapper .counter-wrapper  a.shop-now{
+        margin-bottom: 20px;
+    }
+
+    .tz-sales .wrapper .counter-wrapper .countdown-row .countdown-section{
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+}
